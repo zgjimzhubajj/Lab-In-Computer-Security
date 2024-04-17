@@ -5,3 +5,5 @@ message authentication code and digital signature will be used.
 2. Get the plaintext
 3. Verify the Message Authentication Code
 4. Verify the Digital Signature
+# Contributors
+- Zgjim Zhubaj
